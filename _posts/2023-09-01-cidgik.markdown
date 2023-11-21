@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "CIDGIKc: Distance-Geometric Inverse Kinematics for Continuum Robots"
-date:   2023-08-28 22:21:59 +00:00
-image: /images/cidgikc.jpg
+date:   2023-09-01 22:21:59 +00:00
+image: /images/cidgikc.png
 categories: research
 author: "Hanna Jiamei Zhang"
 authors: "<strong>Hanna Jiamei Zhang</strong>, Matthew Giamou, Filip Marić, Jonathan Kelly, Jessica Burgner-Kahrs"
