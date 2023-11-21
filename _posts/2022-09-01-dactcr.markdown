@@ -8,6 +8,5 @@ author: "Hanna Jiamei Zhang"
 authors: "<strong>Hanna Jiamei Zhang</strong>, Sven Lilge, M. Taha Chikhaoui, Jessica Burgner-Kahrs"
 venue: "IEEE 2022 International Conference on Manipulation, Automation and Robotics at Small Scales (MARSS)"
 paper: https://ieeexplore.ieee.org/document/9870466
-code: https://github.com/ContinuumRoboticsLab/CIDGIKc
+code: /pdfs/Jul_25_2022_MARSS_DACTCR_FINAL_VERSION.pdf
 ---
-We present CIDGIKc (Convex Iteration for Distance-Geometric Inverse Kinematics for Continuum Robots), an algorithm that solves these nonconvex feasibility problems with a sequence of semidefinite programs whose objectives are designed to encourage low-rank minimizers. CIDGIKc is enabled by a novel distance-geometric parameterization of constant curvature segment geometry for CRs with extensible segments.
