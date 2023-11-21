@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "CIDGIKc: Distance-Geometric Inverse Kinematics for Continuum Robots"
+date:   2023-08-28 22:21:59 +00:00
+image: /images/cidgikc.jpg
+categories: research
+author: "Hanna Jiamei Zhang"
+authors: "<strong>Hanna Jiamei Zhang</strong>, Matthew Giamou, Filip Marić, Jonathan Kelly, Jessica Burgner-Kahrs"
+venue: "IEEE Robotics and Automation Letters (RAL)"
+paper: https://ieeexplore.ieee.org/document/10271523
+arxiv: https://arxiv.org/abs/2306.13617
+code: https://github.com/ContinuumRoboticsLab/CIDGIKc
+---
+We present CIDGIKc (Convex Iteration for Distance-Geometric Inverse Kinematics for Continuum Robots), an algorithm that solves these nonconvex feasibility problems with a sequence of semidefinite programs whose objectives are designed to encourage low-rank minimizers. CIDGIKc is enabled by a novel distance-geometric parameterization of constant curvature segment geometry for CRs with extensible segments.
