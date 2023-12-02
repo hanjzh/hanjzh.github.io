@@ -4,7 +4,6 @@ title:  "Vice Chair Operations: University of Toronto Engineering Orientation Co
 date:   2022-09-01 22:21:59 +00:00
 image: /images/dactcr.png
 categories: leadership
-venue: "IEEE 2022 International Conference on Manipulation, Automation and Robotics at Small Scales (MARSS)"
 ---
 Led a team of over 400 volunteers to deliver a week of online welcoming activities as well as some in-person programming for over 1000 incoming first-year engineering students, with a budget over $130k.
 Adapted/re-conceptualized Orientation activities which included new initiatives to encourage community engagement, make it easy for people to make genuine connections with one another, and offer a memorable, positive welcome into their first year of university.

@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Semi-permanent tattoos, patent for novel application technology, semi-permanent ink, and manufacturing process"
+date:   2023-09-01 22:21:59 +00:00
+image: /images/inkbox.png
+categories: research
+authors: "Tyler Handley, Betty Yu ,Sunny Deng ,Jobey Chua, Nazanin Khalili, Motaz Adam, <strong>Hanna Jiamei Zhang</strong>, Christopher Caputo"
+venue: "United States Patent Office and Inkbox Inc"
+---
+This patent relates to semi-permanent tattoos, and more particularly to genipin-based ink compositions as well as layered adhesive articles and methods for application of the genipin-based, semi-permanent tattoos. This encompasses work I did as a year long research team intern at Inkbox Inc.
