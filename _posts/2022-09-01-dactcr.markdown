@@ -8,6 +8,6 @@ author: "Hanna Jiamei Zhang"
 authors: "<strong>Hanna Jiamei Zhang</strong>, Sven Lilge, M. Taha Chikhaoui, Jessica Burgner-Kahrs"
 venue: "IEEE 2022 International Conference on Manipulation, Automation and Robotics at Small Scales (MARSS)"
 paper: https://ieeexplore.ieee.org/document/9870466
-code: /pdfs/Jul_25_2022_MARSS_DACTCR_FINAL_VERSION.pdf
+slides: /pdfs/Jul_25_2022_MARSS_DACTCR_FINAL_VERSION.pdf
 ---
 Many real-world tasks often require collaboration of multiple manipulators necessitating dual-arm (DA) robotic systems. Leveraging the benefits of CTCRs in a dual-arm configuration, i.e. DA-CTCR, has great potential for applications in such areas. A hierarchy-based control framework is proposed to efficiently control and coordinate motions in a semi-autonomous manner for DACTCRs. This framework is validated in various assistive/motion coordination control schemes in simulation and on a real-robot prototype.
