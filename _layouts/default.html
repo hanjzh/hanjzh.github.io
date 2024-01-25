@@ -43,8 +43,8 @@
                 <a target="_blank" href="https://mailhide.io/e/2cfyPW4H"> Email</a> &nbsp;/&nbsp;
                 <a href="https://github.com/hanjzh">GitHub</a> &nbsp;/&nbsp;
                 <a href="https://scholar.google.com/citations?user=32uipSUAAAAJ&hl=en">Google Scholar</a> &nbsp;/&nbsp;
-                <a href="https://www.linkedin.com/in/hannajiameizhang/"> LinkedIn </a>
-                <a href="{{/pdfs/Hanna_Zhang_CV___Grad_School__2023_ FINAL.pdf}}"> CV </a>
+                <a href="https://www.linkedin.com/in/hannajiameizhang/"> LinkedIn </a> &nbsp;/&nbsp;
+                <a href="{/pdfs/Hanna_Zhang_CV___Grad_School__2023_ FINAL.pdf}"> CV </a>
               </p>
             </td>
             <td style="padding:2.5%;width:40%;max-width:40%">
@@ -103,6 +103,9 @@
               {% endif %}
               {% if post.youtube %}
               <a href="{{post.youtube}}">youtube</a> /
+              {% endif %}
+              {% if post.writeup %}
+              <a href="{{post.writeup}}">writeup</a> /
               {% endif %}
               <p></p>
               {{ post.excerpt }}

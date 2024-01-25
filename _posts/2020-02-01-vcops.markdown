@@ -2,7 +2,7 @@
 layout: post
 title:  "Vice Chair Operations: University of Toronto Engineering Orientation Committee"
 date:   2022-09-01 22:21:59 +00:00
-image: /images/dactcr.png
+image: /images/engsoc.png
 categories: leadership
 ---
 Led a team of over 400 volunteers to deliver a week of online welcoming activities as well as some in-person programming for over 1000 incoming first-year engineering students, with a budget over $130k.
